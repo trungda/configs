@@ -120,6 +120,7 @@ alias ga='git add'
 alias gcm='git commit'
 alias gco='git checkout'
 alias gd='git diff'
+alias gp='git push'
 alias gst='git status'
 
 . "$HOME/.cargo/env"
